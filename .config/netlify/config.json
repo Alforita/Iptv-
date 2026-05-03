@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "afa8cddd-f5dc-4e7c-b77f-7df98cb0b5e0",
+	"userId": "69f41625398253cabbf5fba1",
+	"users": {
+		"69f41625398253cabbf5fba1": {
+			"id": "69f41625398253cabbf5fba1",
+			"name": null,
+			"email": "greivinarostegui9@gmail.com",
+			"auth": {
+				"token": "nfc_SUENZU3wJ5H1FdyiNrJ7LcZ5MN4CQzCCe215",
+				"github": {}
+			}
+		}
+	}
+}
